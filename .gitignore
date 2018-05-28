@@ -1,0 +1,6 @@
+.vs/
+bin/
+Debug/
+git_site/
+ipch/
+**/*.opendb
